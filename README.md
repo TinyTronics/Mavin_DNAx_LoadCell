@@ -66,7 +66,8 @@ To install this library from GitHub to Arduino, download the library as a ZIP fi
 
 ## Compatibility
 
-This library has been tested with an ESP32 and with an Arduino Mega, using an [M5STACK TTL to RS485 converter](https://www.tinytronics.nl/index.php?route=product/product&product_id=2309). Other MCU's are probably compatible too, though only hardware serial ports have been tested successfully. 
+This library has been tested with an ESP32 and with an Arduino Mega, using an [M5STACK TTL to RS485 converter](https://www.tinytronics.nl/index.php?route=product/product&product_id=2309). Other MCU's are probably compatible too.
+Currently, only hardware serial ports with RS485 communication have been tested successfully. 
 
 
 ## License
