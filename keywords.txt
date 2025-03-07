@@ -1,0 +1,32 @@
+###########################################
+# Syntax Coloring Map For Mavin_DNAx_LoadCell Library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+Mavin_DNAx_LoadCell	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+begin	KEYWORD2
+readWeight	KEYWORD2
+readStableWeight	KEYWORD2
+tareDevice	KEYWORD2
+setBaudRate	KEYWORD2
+resetDevice	KEYWORD2
+setSamplingRate	KEYWORD2
+setAddress	KEYWORD2
+sendCommand	KEYWORD2
+readResponse	KEYWORD2
+parseWeight	KEYWORD2
+calculateChecksum	KEYWORD2
+
+###########################################
+# Constants and Macros (KEYWORD3)
+###########################################
+
+WEIGHTFACTOR	KEYWORD3
