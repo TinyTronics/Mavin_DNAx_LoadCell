@@ -1,4 +1,4 @@
-# Mavin DNAx LoadCell
+# Mavin DNAx Load Cell
 
 Arduino library for the [Mavin DNA1 and DNA2 series load cells.](https://www.tinytronics.nl/index.php?route=product/search&search=mavin%20rs485)
 
